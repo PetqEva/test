@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\obj\Debug\netcoreapp3.1\Oskari.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\obj\Debug\netcoreapp3.1\Oskari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\obj\Debug\netcoreapp3.1\Oskari.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\obj\Debug\netcoreapp3.1\Oskari.AssemblyInfo.cs
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\obj\Debug\netcoreapp3.1\Oskari.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\bin\Debug\netcoreapp3.1\Oskari.exe
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\bin\Debug\netcoreapp3.1\Oskari.deps.json
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\bin\Debug\netcoreapp3.1\Oskari.runtimeconfig.json
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\bin\Debug\netcoreapp3.1\Oskari.runtimeconfig.dev.json
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\bin\Debug\netcoreapp3.1\Oskari.dll
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\bin\Debug\netcoreapp3.1\Oskari.pdb
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\obj\Debug\netcoreapp3.1\Oskari.dll
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\obj\Debug\netcoreapp3.1\Oskari.pdb
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\obj\Debug\netcoreapp3.1\Oskari.genruntimeconfig.cache

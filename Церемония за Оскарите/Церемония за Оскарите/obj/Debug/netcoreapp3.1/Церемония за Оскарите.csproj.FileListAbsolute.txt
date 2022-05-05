@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\bin\Debug\netcoreapp3.1\Церемония за Оскарите.exe
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\bin\Debug\netcoreapp3.1\Церемония за Оскарите.deps.json
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\bin\Debug\netcoreapp3.1\Церемония за Оскарите.runtimeconfig.json
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\bin\Debug\netcoreapp3.1\Церемония за Оскарите.runtimeconfig.dev.json
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\bin\Debug\netcoreapp3.1\Церемония за Оскарите.dll
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\bin\Debug\netcoreapp3.1\Церемония за Оскарите.pdb
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\obj\Debug\netcoreapp3.1\Церемония за Оскарите.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\obj\Debug\netcoreapp3.1\Церемония за Оскарите.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\obj\Debug\netcoreapp3.1\Церемония за Оскарите.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\obj\Debug\netcoreapp3.1\Церемония за Оскарите.AssemblyInfo.cs
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\obj\Debug\netcoreapp3.1\Церемония за Оскарите.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\obj\Debug\netcoreapp3.1\Церемония за Оскарите.dll
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\obj\Debug\netcoreapp3.1\Церемония за Оскарите.pdb
+C:\Users\User\source\repos\Церемония за Оскарите\Церемония за Оскарите\obj\Debug\netcoreapp3.1\Церемония за Оскарите.genruntimeconfig.cache
