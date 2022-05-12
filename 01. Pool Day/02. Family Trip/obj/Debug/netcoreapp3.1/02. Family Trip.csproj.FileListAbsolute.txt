@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\01. Pool Day\02. Family Trip\bin\Debug\netcoreapp3.1\02. Family Trip.exe
+C:\Users\User\source\repos\01. Pool Day\02. Family Trip\bin\Debug\netcoreapp3.1\02. Family Trip.deps.json
+C:\Users\User\source\repos\01. Pool Day\02. Family Trip\bin\Debug\netcoreapp3.1\02. Family Trip.runtimeconfig.json
+C:\Users\User\source\repos\01. Pool Day\02. Family Trip\bin\Debug\netcoreapp3.1\02. Family Trip.runtimeconfig.dev.json
+C:\Users\User\source\repos\01. Pool Day\02. Family Trip\bin\Debug\netcoreapp3.1\02. Family Trip.dll
+C:\Users\User\source\repos\01. Pool Day\02. Family Trip\bin\Debug\netcoreapp3.1\02. Family Trip.pdb
+C:\Users\User\source\repos\01. Pool Day\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\01. Pool Day\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\01. Pool Day\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01. Pool Day\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.AssemblyInfo.cs
+C:\Users\User\source\repos\01. Pool Day\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01. Pool Day\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.dll
+C:\Users\User\source\repos\01. Pool Day\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.pdb
+C:\Users\User\source\repos\01. Pool Day\02. Family Trip\obj\Debug\netcoreapp3.1\02. Family Trip.genruntimeconfig.cache
